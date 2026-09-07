@@ -49,8 +49,8 @@ A **CPU is sufficient** for the practical. The current notebooks select CUDA whe
 Clone the repository and create a virtual environment:
 
 ```bash
-git clone https://github.com/Jbrich95/GAMEX_summer_school_GANs.git
-cd GAMEX_summer_school_GANs
+git clone https://github.com/gamex-network/gamex_summer_school_gan.git
+cd gamex_summer_school_gan
 
 python3 -m venv gan_ext_env
 ```
